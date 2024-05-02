@@ -1,3 +1,0 @@
-[submodule "transactional-outbox"]
-	path = transactional-outbox
-	url = https://github.com/leonardovee/transactional-outbox
